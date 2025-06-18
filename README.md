@@ -39,12 +39,12 @@ Este projeto é um aplicativo de hortifruti desenvolvido em React Native + Expo.
 
 ---
 
-   Integrantes:
-   Gabriel Alves Queiroz Silva
-   Samuel de Lira Mendonça
-   Leandro de Souza Farias
-   Ademar Neto Seabra Fonseca
-   Felipe Olimpio Fonseca
+   ## Integrantes:
+   Gabriel Alves Queiroz Silva.
+   Samuel de Lira Mendonça.
+   Leandro de Souza Farias.
+   Ademar Neto Seabra Fonseca.
+   Felipe Olimpio Fonseca.
 
 ### Como rodar
 
